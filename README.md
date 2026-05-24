@@ -2,11 +2,9 @@
 
 This repository contains the Python code used to generate and validate the global geospatial dataset of modelled renewable electricity supply, electricity use, and transmission-network infrastructure for 2024, 2030, and 2050.
 
-The archived version of the code used for the submitted manuscript is hosted on Zenodo; for reproducibility, please cite the specific archived release/version.
+The archived version of the code used for the submitted manuscript is hosted on Zenodo; for reproducibility, please cite the specific archived release/version rather than the live repository.
 
-The associated dataset is archived separately on Zenodo (dataset DOI: 10.5281/zenodo.20362071).
-
-The GitHub repository may continue to be updated for maintenance and development. For reproducibility, please cite the archived Zenodo release rather than the live repository.
+The associated dataset is archived separately on Zenodo (dataset DOI: 10.5281/zenodo.20362071). The GitHub repository may continue to be updated for maintenance and development.
 
 [![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
