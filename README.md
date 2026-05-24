@@ -4,7 +4,9 @@ This repository contains the Python code used to generate and validate the globa
 
 The archived version of the code used for the submitted manuscript is hosted on Zenodo; for reproducibility, please cite the specific archived release/version rather than the live repository.
 
-The associated dataset is archived separately on Zenodo (dataset DOI: 10.5281/zenodo.20362071). The GitHub repository may continue to be updated for maintenance and development.
+The GitHub repository may continue to be updated for maintenance and development.
+
+The associated dataset is archived separately on Zenodo (dataset DOI: 10.5281/zenodo.20362071).
 
 [![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
