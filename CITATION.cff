@@ -1,9 +1,8 @@
 cff-version: 1.2.0
 message: >-
-  If you use this software, please cite the archived Zenodo code release
-  listed under `preferred-citation` (use the specific version DOI). If you
-  use the associated dataset, please cite the Zenodo dataset record listed
-  under `references`.
+  If you use this software, please cite the live source code repository and
+  version listed under `preferred-citation`. If you use the associated
+  dataset, please cite the Zenodo dataset record listed under `references`.
 type: software
 title: "A global geospatial dataset of renewable electricity supply and network infrastructure for 2024, 2030 and 2050"
 version: 1.0.0
@@ -36,10 +35,7 @@ preferred-citation:
       orcid: "https://orcid.org/0000-0002-2024-9191"
   year: 2026
   version: "v1.0.0"
-  publisher:
-    name: "Zenodo"
-  doi: "10.5281/zenodo.TBD_CODE"  # Replace with specific Zenodo code version DOI
-  url: "https://doi.org/10.5281/zenodo.TBD_CODE"
+  url: "https://github.com/jjh6838/global-renewable-electricity-supply-networks"
 
 references:
   - type: data
@@ -58,5 +54,5 @@ references:
     version: "v1.0.0"
     publisher:
       name: "Zenodo"
-    doi: "10.5281/zenodo.TBD_DATA"  # Replace with specific Zenodo dataset version DOI
-    url: "https://doi.org/10.5281/zenodo.TBD_DATA"
+    doi: "10.5281/zenodo.20362071"
+    url: "https://doi.org/10.5281/zenodo.20362071"

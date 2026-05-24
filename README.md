@@ -4,7 +4,7 @@ This repository contains the Python code used to generate and validate the globa
 
 The archived version of the code used for the submitted manuscript is hosted on Zenodo (code DOI pending; this line will be updated after release).
 
-The associated dataset is archived separately on Zenodo (dataset DOI pending; this line will be updated after release).
+The associated dataset is archived separately on Zenodo (dataset DOI: 10.5281/zenodo.20362071).
 
 The GitHub repository may continue to be updated for maintenance and development. For reproducibility, please cite the archived Zenodo release rather than the live repository.
 
@@ -446,7 +446,7 @@ The loader scripts expect the following files. Adjust the loader paths in [confi
 
 ## Data Records
 
-The archived dataset for this submission is deposited at **[Zenodo DOI]** (placeholder - DOI updated upon publication). Records are organized as standardized country-year outputs for 189 countries x 3 model years (2024, 2030, 2050). Each country-year output contains four core components: generation facility layers, settlement-centroid electricity use and supply layers, transmission-network layers with routed supply paths, and a national summary table. Global supporting renewable generation viability screening layers for solar, wind, and hydropower are also included for 2030 and 2050.
+The archived dataset for this submission is deposited at **https://doi.org/10.5281/zenodo.20362071**. Records are organized as standardized country-year outputs for 189 countries x 3 model years (2024, 2030, 2050). Each country-year output contains four core components: generation facility layers, settlement-centroid electricity use and supply layers, transmission-network layers with routed supply paths, and a national summary table. Global supporting renewable generation viability screening layers for solar, wind, and hydropower are also included for 2030 and 2050.
 
 The full dataset is archived separately on Zenodo and is not stored in this GitHub repository because of file size and versioning considerations. This repository is intended for code, workflow scripts, and lightweight reproducible examples.
 
