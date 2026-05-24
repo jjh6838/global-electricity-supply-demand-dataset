@@ -2,7 +2,7 @@
 
 This repository contains the Python code used to generate and validate the global geospatial dataset of modelled renewable electricity supply, electricity use, and transmission-network infrastructure for 2024, 2030, and 2050.
 
-The archived version of the code used for the submitted manuscript is hosted on Zenodo (code DOI pending; this line will be updated after release).
+The archived version of the code used for the submitted manuscript is hosted on Zenodo; for reproducibility, please cite the specific archived release/version.
 
 The associated dataset is archived separately on Zenodo (dataset DOI: 10.5281/zenodo.20362071).
 
@@ -953,8 +953,8 @@ python p1_f_viable_hydro.py
 
 ## Citation and License
 
-- **Code archive for reproducibility:** Zenodo (code DOI pending; cite the specific version DOI used for the manuscript once available).
-- **Dataset archive:** Zenodo (dataset DOI pending).
+- **Code archive for reproducibility:** Zenodo; cite the specific archived release/version.
+- **Dataset archive:** Zenodo (DOI: 10.5281/zenodo.20362071).
 - **Live development repository:** GitHub repository (maintenance and development branch; not the archival citation target).
 - Citation metadata: [CITATION.cff](CITATION.cff)
 - License: [LICENSE](LICENSE)
