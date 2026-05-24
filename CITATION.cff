@@ -38,8 +38,8 @@ preferred-citation:
   version: "v1.0.0"
   publisher:
     name: "Zenodo"
-  doi: "10.5281/zenodo.TBD_CODE"
-  url: "https://doi.org/10.5281/zenodo.TBD_CODE"
+  doi: "10.5281/zenodo.20362891"
+  url: "https://doi.org/10.5281/zenodo.20362891"
 
 references:
   - type: data
